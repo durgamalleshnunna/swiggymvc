@@ -1,4 +1,6 @@
 A **Spring MVC** application is deployed on a **Tomcat server** or any servlet container. The **WAR file** is generated using Maven/Gradle and deployed to a server. It runs with a connected database and serves dynamic web content.
+
+
 ![swiggy5PNG](https://github.com/user-attachments/assets/1bf240af-0937-467c-b4b4-54872ec1273c)
 ![swiggy4](https://github.com/user-attachments/assets/d4b0ba7f-b794-434a-9107-91d5c789ca9d)
 ![swiggy3](https://github.com/user-attachments/assets/393b250a-eb41-45e3-9d19-855a0b56861c)
